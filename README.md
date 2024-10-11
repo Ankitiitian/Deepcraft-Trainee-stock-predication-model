@@ -82,7 +82,7 @@ If the results need further optimization, you can retrain the model by increasin
 
 ## **Project Structure**
 
-- **`stock_price.csv`**: The stock price dataset (ensure the file contains columns like `Date` and `Close`).
+- **`stock_price.csv`**: The stock price dataset (ensure the file contains columns like `Date` and `Close Pricew` etc).
 - **`stock_price_prediction.py`**: The main Python script containing all steps from EDA, model building, and evaluation.
 - **`README.md`**: This README file.
 
